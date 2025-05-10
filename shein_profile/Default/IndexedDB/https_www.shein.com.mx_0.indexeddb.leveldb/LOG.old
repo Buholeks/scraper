@@ -1,0 +1,5 @@
+2025/05/09-15:16:56.355 5040 Reusing MANIFEST C:\xampp\htdocs\scraping-shein\shein-scraper\shein_profile\Default\IndexedDB\https_www.shein.com.mx_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/09-15:16:56.355 5040 Recovering log #34
+2025/05/09-15:16:56.356 5040 Reusing old log C:\xampp\htdocs\scraping-shein\shein-scraper\shein_profile\Default\IndexedDB\https_www.shein.com.mx_0.indexeddb.leveldb/000034.log 
+2025/05/09-15:16:56.356 5040 Delete type=2 #32
+2025/05/09-15:16:57.159 20ac Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)

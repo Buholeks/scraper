@@ -101,7 +101,7 @@ def extract_product_details():
     click.clear()
     click.secho("Starting product details extraction process...", fg="green")
     
-    initial_url = "https://shein.com"
+    initial_url = "https://shein.com.mx"
     
     mode = click.prompt(
         "Choose scraping mode:\n1. Single product URL\n2. Batch from latest URLs file\nChoose 1 or 2",

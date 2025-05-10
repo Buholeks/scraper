@@ -1,0 +1,8 @@
+2025/05/09-15:16:55.959 5040 Reusing MANIFEST C:\xampp\htdocs\scraping-shein\shein-scraper\shein_profile\Default\Session Storage/MANIFEST-000001
+2025/05/09-15:16:55.960 5040 Recovering log #3
+2025/05/09-15:16:55.960 5040 Level-0 table #3: started
+2025/05/09-15:16:55.962 5040 Level-0 table #3: 27793 bytes OK
+2025/05/09-15:16:55.962 5040 Recovering log #4
+2025/05/09-15:16:55.962 5040 Reusing old log C:\xampp\htdocs\scraping-shein\shein-scraper\shein_profile\Default\Session Storage/000004.log 
+2025/05/09-15:16:55.964 5040 Delete type=0 #3
+2025/05/09-15:16:55.964 5040 Delete type=2 #5
