@@ -196,7 +196,7 @@ def scrape_single_product(url: str) -> Dict:
             # Configuración del navegador
             browser = p.chromium.launch_persistent_context(
                 user_data_dir="./shein_profile",
-                headless=False,
+                headless=True,
                 viewport=STEALTH_SETTINGS["viewport"],
                 user_agent=STEALTH_SETTINGS["user_agent"],
                 locale=STEALTH_SETTINGS["locale"],
